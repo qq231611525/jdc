@@ -1,0 +1,25 @@
+{
+  "project": {
+    "dir": "/Users/leo/go/src/JDC-Monitor"
+  },
+  "influx": {
+    "url": "",
+    "user": "",
+    "pwd": "",
+    "dbName": ""
+  },
+  "jd": [
+    {
+      "user": "leo",
+      "pin": "",
+      "tgt": "",
+      "getZXQC": true,
+      "collect": false,
+      "reboot": 100
+    }
+  ],
+  "wechat": {
+    "api": "",
+    "token": ""
+  }
+}
